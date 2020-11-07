@@ -1,6 +1,6 @@
 # salsa verde
 
-# ingredients
+## ingredients
 - 8 serrano peppers
 - 2 poblano peppers
 - 1 white onion
@@ -11,7 +11,7 @@
 - 3 tablespoons vegetable oil
 - 1/2 lime
 
-# process
+## process
 1. peel and wash tomatillos, there is a sticky residue on them, add to a large pot
 1. peel garlic, peel and quarter the onion, add to the pot
 1. fill the pot with just enough water to submerge them everything
@@ -29,7 +29,7 @@
 1. add more water or more boiling time to get the consistency you're looking for
 1. let the mixture cool, then eat, keep refrigerated
 
-# notes
+## notes
 - it is difficult to taste test the flavor when the salsa is boiling hot, don't be afraid to wait until it has cooled to add more salt
 - the spiciness of serranos varies batch by batch which makes hard to predict if you are going to be in pain or wondering where the heat is
 - this is SUPER GOOD if you mix a small portion of it with avocado
