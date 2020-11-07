@@ -27,6 +27,7 @@
 1. add some salt, start slow and add more when you're nearly done cooking
 1. simmer for 20 minutes and stir occasionally, you will notice the color darkening more
 1. add more water or more boiling time to get the consistency you're looking for
+1. squeeze some lime juice in, stir
 1. let the mixture cool, then eat, keep refrigerated
 
 ## notes
