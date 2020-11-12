@@ -1,4 +1,5 @@
 # salsa verde
+original, from various sources and experimentation
 
 ## ingredients
 - 8 serrano peppers
