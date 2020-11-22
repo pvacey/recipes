@@ -9,6 +9,7 @@ Courtesy of @cookingwithshereen on tiktok
 - 1 Lemon
 - Canola or Olive Oil
 - Salt & Pepper
+- Butcher's twine
 
 ## Directions
 1. Pre-heat oven to 400 
