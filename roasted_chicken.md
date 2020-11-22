@@ -1,4 +1,4 @@
-# Roasted Chicken
+# Whole Roasted Chicken
 Courtesy of @cookingwithshereen on tiktok
  
 ## Ingredients
