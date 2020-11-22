@@ -2,7 +2,7 @@
 Courtesy of @cookingwithshereen on tiktok
  
 ## Ingredients
-- Whole Chickdn
+- Whole Chicken
 - FRESH bundle of thyme of poultry herbs (yes this is a thing - you can find it in the produce sectiom)
 - Whole bulb of garlic
 - Medium Yellow or White Onion 
