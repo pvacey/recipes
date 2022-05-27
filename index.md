@@ -10,3 +10,5 @@
 ### [banana bread](banana_bread.md)
 ### [no knead bread](no_knead_bread.md)
 ### [cream cheese frosting](cream_cheese_frosting.md)
+### [graham streusel cake](graham_streusel_cake.md)
+
