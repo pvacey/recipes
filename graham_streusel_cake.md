@@ -5,7 +5,7 @@ from: a very old photocopy of a General Mills recipe
 - 2 cups graham cracker crumbs (about 28 squares)
 - 3/4 cup brown sugar
 - 2 teaspoons cinnamon (heaping)
-- 3/4 cup butter
+- 3/4 cup melted butter
 - 1 package yellow cake mix
 - 1 cup water
 - 1/2 cup vegetable oil
