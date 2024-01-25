@@ -2,10 +2,10 @@
 from *Better Homes and Gardens New Cook Book 17th Edition*
 
 ## ingredients
-- 8oz bulk italian sausage, ground beef, or ground turkey
-- 12oz dried cavatelli or gemelli pasta (3.5 cups, I think we just dump in the whole box)
+- 16oz bulk italian sausage, ground beef, or ground turkey
+- 1 box dried cavatelli or gemelli pasta (>3.5 cups)
 - 2 x 14.5oz cans diced tomatoes w/ italian herbs, undrained
-- 1/2 cup tomato sauce
+- 1 cup tomato sauce
 - 14.5oz can low-sodium chicken broth
 - 2 tablespoons olive oil
 - 6 cloves garlic, minced
