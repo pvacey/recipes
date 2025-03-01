@@ -15,7 +15,7 @@ original, from various sources and experimentation
 ## process
 1. peel and wash tomatillos, there is a sticky residue on them, add to a large pot
 1. peel garlic, peel and quarter the onion, add to the pot
-1. fill the pot with just enough water to submerge them everything
+1. fill the pot with just enough water to submerge everything
 1. slice serrano and and poblano peppers lengthwise, place on baking sheet skin side up
 1. broil the peppers until the skin is blackened (some finish faster than others, keep checking and pluck them out as they get dark enough)
 1. add the roasted peppers to the pot, bring the water to a boil
