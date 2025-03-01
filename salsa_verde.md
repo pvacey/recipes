@@ -19,7 +19,7 @@ original, from various sources and experimentation
 1. slice serrano and and poblano peppers lengthwise, place on baking sheet skin side up
 1. broil the peppers until the skin is blackened (some finish faster than others, keep checking and pluck them out as they get dark enough)
 1. add the roasted peppers to the pot, bring the water to a boil
-1. continue boiling until tomatillos darkens and are soft enough that squeezing them gently with tongs will break their skin
+1. continue boiling until tomatillos darken and are soft enough that squeezing them gently with tongs will break their skin
 1. pour off about 2 cups of the water (to add back later), completely drain the rest of the water
 1. add the cilantro and blend everything
 1. now you will cook the blended salsa, heat a clean pot with 3 tablespoons of vegetable oil
