@@ -1,4 +1,5 @@
 # cooking
+### [whole30 chili](whole30_chili.md)
 ### [tonkatsu](tonkatsu.md)
 ### [gravy chicken](gravy_chicken.md)
 ### [salsa verde](salsa_verde.md)
