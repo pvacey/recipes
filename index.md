@@ -1,5 +1,6 @@
 # cooking
 ### [tonkatsu](tonkatsu.md)
+### [gravy chicken](gravy_chicken.md)
 ### [salsa verde](salsa_verde.md)
 ### [baked cavatelli](baked_cavatelli.md)
 ### [crispy chicken thighs](crispy_chicken_thighs.md)
