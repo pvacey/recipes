@@ -1,4 +1,5 @@
 # spicy peanut chicken
+from [Instagram](https://www.instagram.com/reel/DRubuodDlYc/)
 
 ## ingredients
 - 3 - 4 chicken thighs, diced
