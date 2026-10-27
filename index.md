@@ -10,6 +10,7 @@
 ### [butter chicken](butter_chicken.md)
 ### [beer crust pizza dough](beer_crust_pizza_dough.md)
 ### [whole roasted chicken](roasted_chicken.md)
+### [spicy peanut chicken](spicy_peanut_chicken.md)
 
 # baking
 ### [banana bread](banana_bread.md)
