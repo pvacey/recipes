@@ -11,6 +11,7 @@
 ### [beer crust pizza dough](beer_crust_pizza_dough.md)
 ### [whole roasted chicken](roasted_chicken.md)
 ### [spicy peanut chicken](spicy_peanut_chicken.md)
+### [chicken thighs and shrimp paella](chicken_shrimp_paella.md)
 
 # baking
 ### [banana bread](banana_bread.md)
