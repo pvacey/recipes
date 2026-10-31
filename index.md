@@ -1,5 +1,6 @@
 # cooking
 ### [whole30 chili](whole30_chili.md)
+### [roasted poblano soup](roasted_poblano_soup.md)
 ### [tonkatsu](tonkatsu.md)
 ### [gravy chicken](gravy_chicken.md)
 ### [salsa verde](salsa_verde.md)
