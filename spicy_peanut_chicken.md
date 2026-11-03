@@ -12,7 +12,6 @@ from [Instagram](https://www.instagram.com/reel/DRubuodDlYc/)
   - 2 large garlic cloves, grated
   - 1 tsp baking soda
   - 1 tbsp cornstarch
-  - green onion whites, sliced
 - sauce
   - 2 tbsp butter
   - 2 tbsp low sodium soy sauce
@@ -22,13 +21,13 @@ from [Instagram](https://www.instagram.com/reel/DRubuodDlYc/)
   - 1 tsp sesame oil
   - 2 tbsp peanut butter
   - 2 large garlic clove, grated
+  - green onion whites
 - for serving:
   - white rice
   - sesame seeds
-  - sliced green onion greens
+  - green onion greens, sliced
 
 ## process
-1. 
 1. dice the chicken and toss it with the coating
 1. cook the chicken in a hot pan until browned and cooked through, then take it out and set aside
 1. mix all of the sauce ingredients together in a bowl
