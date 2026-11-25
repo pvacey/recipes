@@ -13,6 +13,7 @@
 ### [whole roasted chicken](roasted_chicken.md)
 ### [spicy peanut chicken](spicy_peanut_chicken.md)
 ### [chicken thighs and shrimp paella](chicken_shrimp_paella.md)
+### [deviled eggs](deviled_eggs.md)
 
 # baking
 ### [banana bread](banana_bread.md)
